@@ -5,8 +5,6 @@ const CreateScreen = ({navigation}) => {
     
     const {addBlogPost } = useContext(Context);
    
-
-    
     return(
         <BlogPostForm titleLabel='Enter Title :'
             contentLabel='Enter Content :'

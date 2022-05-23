@@ -18,5 +18,3 @@ export default (reducer,action, initialState) => {
 
     return {Context, Provider};
 };
-
- 
